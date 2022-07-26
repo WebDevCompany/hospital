@@ -1,0 +1,69 @@
+.Wrapper {
+     max-width: 1920px;
+     margin: 0px auto;
+ }
+
+ .HeaderWrapper {
+    display:flex;
+    flex-wrap:wrap;
+    align-items:center;
+    justify-content:space-between;   
+    
+ }
+
+ .HeaderNav{
+   background:#1FA181;
+    padding:20px 0px 5px;
+ }
+
+
+.headerLink{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color:white;
+  text-decoration:none;
+}
+
+
+.HeaderList {
+  margin-left:100px;  
+  display:flex;
+  flex-wrap:wrap;
+  list-style-type:none;
+  
+  
+}
+
+.HeaderIntro{
+  margin-right: 20px;
+  margin-left:35px;
+}
+
+.ButtonSend{
+  margin-left:35px;
+  padding:11px 23px;
+  background: #0DBC91;
+  border-radius: 50px;
+  border:none;
+  color:#FFFFFF;
+}
+
+    .HeaderWrapper {
+    display:flex;
+    flex-wrap:wrap;
+    align-items:center;
+    justify-content:center;
+        
+    }
+
+    .Vector{
+      position:relative;
+      top:20px;
+      left:-20px;
+
+    }
+
+    .moveLogo:hover{
+      box-shadow: 0 0 1px rgba(0,0,0,0.5); 
+    }

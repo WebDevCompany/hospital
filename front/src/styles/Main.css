@@ -1,0 +1,40 @@
+.MainWrapper {
+    display:flex;
+        
+    justify-content:center;
+    background: #F8FBFA;
+    max-height: 533px;
+    
+    
+    
+ }
+
+  .MainTextWrapper {
+    font-family: 'PT Sans Caption';
+    font-style: normal;
+    line-height: 47px;
+    color: #364844;
+    padding-top: 140px;
+               
+ }
+
+ .MainText{
+    font-weight: 700;
+    font-size: 36px;
+    margin-left: 300px;
+    margin-right:90px;
+    padding-bottom: 248px;
+ }
+
+ .SuppleText{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    
+ }
+
+ .MainImg{
+   width: 950px;
+   height: 540px;
+ }

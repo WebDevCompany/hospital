@@ -1,0 +1,59 @@
+.SecondMainPart{
+  margin-top: 101px;
+  margin-right: 301px;
+  margin-left: 390px;
+  width: 613px;
+  height: 440px;
+  background: #E2F0EF;
+  display: flex;
+}
+
+.HeaderSecondMainPart{
+  font-style: normal;
+  font-weight: 700;
+  font-size: 38px;
+  line-height: 49px;
+  text-transform: uppercase;
+  color: #364844;
+  padding-top: 52px;
+  padding-left: 63px;
+}
+
+.ListSecondMain{
+  padding-top: 16px;
+  padding-left: 63px;
+  font-family: 'PT Sans Caption';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+
+  color: #364844;
+}
+
+.Price{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  color: #364844;
+  padding-left: 63px;
+}
+
+.Sales{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;  
+  text-decoration-line: line-through;
+  color: #868686;
+  padding-left: 15px;
+}
+
+.WriteOnVisit{
+  display: flex;
+  justify-content: flex-start;
+  padding-top: 37px;
+  padding-left: 20px;
+  margin-right: 35px;
+}
