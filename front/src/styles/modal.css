@@ -1,0 +1,34 @@
+.modal__field {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  background: #00ffbf2b;
+  z-index: 1;
+}
+.modal__form {
+  position: fixed;
+  top: 100px;
+  right: 200px;
+}
+.modal__text {
+  color: black;
+}
+.form-control {
+  position: relative;
+}
+.modal__err {
+  position: absolute;
+  top: 0;
+  right: 10px;
+  color: red;
+  font-size: 30px;
+}
+.modal__valid-pass,
+.modal__valid-name {
+  position: absolute;
+  top: 0;
+  left: 10px;
+  color: red;
+  font-size: 14px;
+  display: none;
+}
